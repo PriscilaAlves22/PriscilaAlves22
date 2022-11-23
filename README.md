@@ -3,11 +3,8 @@
 🏆minha frase é : "  O aprendiz é um mestre em formação"
 me dedicando a aprender  a linguagem de programação.
 <div>
-<a href="https://beacons.page/PriscilaAlves22">
-<img height="180em" src="https://github-readme-stats.vercel.app/api? 
-username=PriscilaAlves22&show_icons=true&theme=gruvbox&include_all_commits=true&ecount_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/apis/top-langs/?
-username=PriscilaAlves22&layout=compact&langs_count=7&theme=gruvbox"/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriscilaAlves22)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="pri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
