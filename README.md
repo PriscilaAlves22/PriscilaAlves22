@@ -3,6 +3,7 @@
 🏆minha frase é : "  O aprendiz é um mestre em formação"
 me dedicando a aprender  a linguagem de programação.
 <div>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriscilaAlves22&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaAlves22)](https://github.com/anuraghazra/github-readme-stats)
 </div>
