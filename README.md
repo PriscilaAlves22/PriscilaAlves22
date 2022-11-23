@@ -5,7 +5,7 @@ me dedicando a aprender  a linguagem de programação.
 <div>
 <a href="https://beacons.page/PriscilaAlves22">
 <img height="180em" src="https://github-readme-stats.vercel.app/api? 
-usarname=PriscilaAlves22&show_icons=true&theme=gruvbox&include_all_commits=true&ecount_private=true"/>
+username=PriscilaAlves22&show_icons=true&theme=gruvbox&include_all_commits=true&ecount_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/apis/top-langs/?
 username=PriscilaAlves22&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
